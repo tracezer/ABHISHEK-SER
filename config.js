@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'Trace_Bot'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
-global.fgpyp = 'https://youtube.com/@comedymelodych8468'
-global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
+global.packname = 'trace☘️' 
+global.author = 'trace zer' 
+global.igfg = '▢ Follow on Instagram\https://www.instagram.com/Trace_efx'
+global.dygp = '
+global.fgsc = 'https://github.com/tracezer' 
+global.fgyt = ''
+global.fgpyp = ''
+global.fglog = '' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
